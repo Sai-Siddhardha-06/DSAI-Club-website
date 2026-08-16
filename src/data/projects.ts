@@ -82,14 +82,6 @@ export const projects: Project[] = [
     github: "https://github.com/dsai-iitbhilai"
   },
   {
-    title: "Automatic Turret",
-    description: 
-    "AAn intelligent targeting system that detects and tracks objects using multiple sensors and automatically determines the optimal aiming direction.",
-    tags: ["Python", "OpenCV", "PyTorch", "Arduino", "Computer Vision", "Sensor Fusion"],
-    status:"Active",
-    github: "https://github.com/dsai-iitbhilai"
-  },
-  {
     title: "IIT Bhilai AI Assistant: A Retrieval-Augmented Campus Chatbot",
     description: 
     "An AI-powered chatbot that provides accurate answers to campus-related queries using information retrieved from official IIT Bhilai resources.",
