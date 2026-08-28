@@ -95,7 +95,7 @@ export const team: TeamMember[] = [
     role: "Core Member",
     specialty: "Machine Learning",
     bio: "Senior CS student passionate about building real-world deployment pipelines for automated systems.",
-    image: "/team/dhinesh.jpg",
+    image: "/team/dinesh.jpg",
     linkedin: "https://www.linkedin.com/in/dinesh-abhiram-a-v-n-35b86537b",
     github: "https://github.com/Dinesh-abhiram",
   }, 
